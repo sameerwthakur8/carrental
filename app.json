@@ -1,0 +1,12 @@
+{
+  "name": "carrental",
+  "displayName": "carrental",
+  "expo": {
+    "name": "carrental",
+    "slug": "carrental",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
